@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/jfrei/eclipse-workspace/vaadin-flow-paypal-demo/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/jfrei/eclipse-workspace/vaadin-flow-paypal-demo/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/jfrei/eclipse-workspace/vaadin-flow-paypal-demo/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\jfrei\\eclipse-workspace\\vaadin-flow-paypal-demo\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\jfrei\\eclipse-workspace\\vaadin-flow-paypal-demo\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/jfrei/eclipse-workspace/vaadin-flow-paypal-demo/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/jfrei/eclipse-workspace/vaadin-flow-paypal-demo/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/jfrei/eclipse-workspace/vaadin-flow-paypal-demo/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\jfrei\\eclipse-workspace\\vaadin-flow-paypal-demo\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

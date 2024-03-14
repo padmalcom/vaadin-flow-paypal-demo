@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<include
+		resource="org/springframework/boot/logging/logback/defaults.xml" />
+
+	<!-- This profile should never be used and is only here for debugging purposes -->
+	<springProfile name="default">
+		<include
+			resource="org/springframework/boot/logging/logback/console-appender.xml" />
+		<root level="ERROR">
+			<appender-ref ref="CONSOLE" />
+		</root>
+		<logger name="de.stonedrum" level="DEBUG" />
+		<logger name="org.springframework" level="INFO" />
+	</springProfile>
+</configuration>
